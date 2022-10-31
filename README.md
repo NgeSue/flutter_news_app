@@ -1,4 +1,4 @@
-# roman_ui_app
+# flutter_news_app_with_rss
 
 A new Flutter project.
 
